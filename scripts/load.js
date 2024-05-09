@@ -1,3 +1,4 @@
+
 async function loadsw(){
   try {
     await registerSW();
