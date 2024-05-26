@@ -1,1 +1,1 @@
-Modified version of Ultra-Violet for Vercel Deployments
+Modified version for Vercel Deployments
